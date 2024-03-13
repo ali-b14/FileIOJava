@@ -3,7 +3,7 @@ package Step4;
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
-
+// i think i was forgetting to do the add . before my committing step so i wasn't pushing anything up to the repository.
 public class ReadFour
 {
     /**
